@@ -23,8 +23,8 @@ python test.py
 
 ## Credits
 
-Ravencoin for X16R
-Luke Pighetti for X16S
-SUQA for X22i
-Trevali for X21S
-kryptoshi for the idea of merging the ideas of X22i with X16S.
+..* Ravencoin for X16R
+..* Luke Pighetti for X16S
+..* SUQA for X22i
+..* Trevali for X21S
+..* kryptoshi for the idea of merging the ideas of X22i with X16S.
