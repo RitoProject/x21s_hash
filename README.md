@@ -30,7 +30,7 @@ python test.py
   * kryptoshi for the idea of merging the ideas of X22i with X16S.
 
 ## What is x21s_hash ?
-
+The cornerstone feature of our coin at launch is the new X21S algorithm, inspired by X22i and X16S. The hashing algorithm begins with 16 algorithms shuffled and hashed in the manner prescribed by X16S, followed by 5 additional hashing algorithms: haval256, tiger, lyra2, gost512, and sha256. The inclusion of lyra2 brings numerous advantages, making parallelization of the algorithm practically impossible, with each step relying on the previous step having already been computed. It is a “friendly” algorithm that makes GPUs produce much less heat and uses less electricity during mining.
 
 
 ## What is ritocoin ?
