@@ -28,3 +28,15 @@ python test.py
   * SUQA for X22i
   * Trevali for X21S
   * kryptoshi for the idea of merging the ideas of X22i with X16S.
+
+## What is x21s_hash ?
+
+
+
+## What is ritocoin ?
+
+Ritocoin is a blockchain software development project designed to experiment with alternative and additional concepts with ideas based on those begun by the Ravencoin project.
+
+Ritocoin launches with the spirit of community, cypherpunk culture and hacker ethics. Ritocoin is a fork of the Ravencoin codebase, which is an experimental blockchain and platform optimized for transferring assets, such as tokens, from one holder to another. The launch of Ritocoin offers several improvements to Ravencoin. First, a change in the proof-of-work mining algorithm, second, a commitment to keeping mining accessible to casual hobbyists, third, a roadmap for masternode functionality to be added, and finally, an emphasis on the community-driven development of user friendly features and add-on utilities. The culture of Ritocoin will be of rapid software development and frequent releases of experimental features.
+
+Ritocoin is intended to be a bazaar of ideas prioritizing security, user control, privacy, censorship resistance, and fair distribution of hashrate to all members of the cryptocurrency community.
