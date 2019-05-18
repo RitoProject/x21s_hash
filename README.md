@@ -1,3 +1,6 @@
+# Rito Core
+https://ritocoin.org/
+
 # x21s_hash
 Source code for the x21s hash function. You can use this with python (using the instructions below) or anywhere else you need to incorporate x21s. For nomp, simply add this to your multi-hashing module and edit the bindings and rebuild.
 
