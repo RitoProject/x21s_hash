@@ -61,7 +61,7 @@ static void getAlgoString(const uint8_t* prevblock, char *output)
         }
 }
 
-void x21s_hash(const char* input, char* output, uint32_t len) {
+void x21s_hash(const char* input, char* output) {
         uint32_t hash[64/4];
         char hashOrder[HASH_FUNC_COUNT + 1] = { 0 };
 
@@ -87,7 +87,7 @@ void x21s_hash(const char* input, char* output, uint32_t len) {
         sph_sha256_context ctx_sha;
 
         void *in = (void*) input;
-        int size = len;
+        int size = 80;
 
         getAlgoString(&input[4], hashOrder);
 

@@ -1,1 +1,1 @@
-void x21s_hash(const char* input, char* output, uint32_t len);
+void x21s_hash(const char* input, char* output);
